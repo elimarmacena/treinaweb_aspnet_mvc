@@ -1,0 +1,13 @@
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\ERM.Repositorio.Comum.Entity.dll.config
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\ERM.Repositorio.Comum.Entity.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\ERM.Repositorio.Comum.Entity.pdb
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\ERM.Repositorio.Comum.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\ERM.Repositorio.Comum.pdb
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\obj\Debug\ERM.Repositorio.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\obj\Debug\ERM.Repositorio.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\obj\Debug\ERM.Repositorio.Comum.Entity.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum.Entity\obj\Debug\ERM.Repositorio.Comum.Entity.pdb

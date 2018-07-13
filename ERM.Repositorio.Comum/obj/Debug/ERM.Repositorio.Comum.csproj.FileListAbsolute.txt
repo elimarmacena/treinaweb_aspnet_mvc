@@ -1,0 +1,6 @@
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum\bin\Debug\ERM.Repositorio.Comum.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum\bin\Debug\ERM.Repositorio.Comum.pdb
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum\obj\Debug\ERM.Repositorio.Comum.csprojResolveAssemblyReference.cache
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum\obj\Debug\ERM.Repositorio.Comum.csproj.CoreCompileInputs.cache
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum\obj\Debug\ERM.Repositorio.Comum.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Repositorio.Comum\obj\Debug\ERM.Repositorio.Comum.pdb

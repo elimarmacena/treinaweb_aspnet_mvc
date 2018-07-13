@@ -1,0 +1,6 @@
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Musicas.Dominio\bin\Debug\ERM.Musicas.Dominio.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Musicas.Dominio\bin\Debug\ERM.Musicas.Dominio.pdb
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Musicas.Dominio\obj\Debug\ERM.Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Musicas.Dominio\obj\Debug\ERM.Musicas.Dominio.dll
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Musicas.Dominio\obj\Debug\ERM.Musicas.Dominio.pdb
+C:\Users\elmr\source\repos\ERM.Musicas\ERM.Musicas.Dominio\obj\Debug\ERM.Musicas.Dominio.csprojResolveAssemblyReference.cache
